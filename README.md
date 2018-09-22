@@ -1,4 +1,4 @@
-# desease-diagnose
+# Desease diagnose
 
 Nosso trabalho consiste em auxiliar o médico na hora de diagnosticar seus
 pacientes.
