@@ -1,0 +1,28 @@
+D_code,Emprego,Prob
+C0011847,Empregado,"6,6"
+C0030920,Empregado,"4,7"
+C0022658,Empregado,"0,8"
+C0003864,Empregado,"17,8"
+C0034067,Empregado,"0,5"
+C0006277,Empregado,"2,5"
+C0010054,Empregado,"4,5"
+C0020538,Empregado,"22,2"
+C0038454,Empregado,"1,5"
+C0011847,Ja trabalhou,12
+C0030920,Ja trabalhou,"8,3"
+C0022658,Ja trabalhou,"3,2"
+C0003864,Ja trabalhou,28
+C0034067,Ja trabalhou,"2,2"
+C0006277,Ja trabalhou,"5,3"
+C0010054,Ja trabalhou,"7,8"
+C0020538,Ja trabalhou,"29,9"
+C0038454,Ja trabalhou,"4,2"
+C0011847,Nunca trabalhou,"11,3"
+C0030920,Nunca trabalhou,"4,9"
+C0022658,Nunca trabalhou,"2,9"
+C0003864,Nunca trabalhou,"19,8"
+C0034067,Nunca trabalhou,"1,1"
+C0006277,Nunca trabalhou,4
+C0010054,Nunca trabalhou,"7,4"
+C0020538,Nunca trabalhou,"25,1"
+C0038454,Nunca trabalhou,"4,5"
