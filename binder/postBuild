@@ -7,7 +7,7 @@ python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, a
 test -e test.png && rm test.png
 
 # Beakerx installation and extension
-# beakerx install
+beakerx install
 jupyter labextension install beakerx-jupyterlab
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
@@ -41,3 +41,7 @@ jupyter labextension install @jupyterlab/latex
 
 # Building everything
 jupyter lab build
+
+
+# final touches
+rm conda-bld -R
