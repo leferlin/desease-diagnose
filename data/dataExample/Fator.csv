@@ -1,0 +1,31 @@
+Fator,Tipo
+Idade,18–44
+Idade,45–64
+Idade,65–74
+Idade,Mais que 75
+Emprego,Empregado
+Emprego,Ja trabalhou
+Emprego,Nunca trabalhou
+Educacao,Medio incompleto
+Educacao,Medio completo
+Educacao,Superior completo
+Raca,Branca
+Raca,Preta
+Raca,Indigena
+Raca,Asiatica
+Regiao,Northeast
+Regiao,Midwest
+Regiao,South
+Regiao,West
+Renda,Ate 35000
+Renda,De 35000 a 49999
+Renda,De 50000 a 74999
+Renda,De 75000 a 99999
+Renda,100000 ou mais
+Sexo,M 
+Sexo,F 
+Status,Casado
+Status,Viuvo
+Status,Divorciado
+Status,Solteiro
+Status,Morando junto
