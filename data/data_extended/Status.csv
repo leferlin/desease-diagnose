@@ -1,0 +1,46 @@
+D_code,Status,Prob
+C0011847,Casado,"8,3"
+C0030920,Casado,"5,6"
+C0022658,Casado,"1,7"
+C0003864,Casado,"21,3"
+C0034067,Casado,"27,9"
+C0006277,Casado,"2,7"
+C0010054,Casado,"5,5"
+C0020538,Casado,"24,8"
+C0038454,Casado,"2,3"
+C0011847,Viuvo,12.0
+C0030920,Viuvo,"9,6"
+C0022658,Viuvo,"2,3"
+C0003864,Viuvo,"28,7"
+C0034067,Viuvo,2
+C0006277,Viuvo,"6,6"
+C0010054,Viuvo,0
+C0020538,Viuvo,"39,1"
+C0038454,Viuvo,0
+C0011847,Divorciado,"10,5"
+C0030920,Divorciado,"7,5"
+C0022658,Divorciado,"2,4"
+C0003864,Divorciado,"25,4"
+C0034067,Divorciado,2
+C0006277,Divorciado,"4,5"
+C0010054,Divorciado,7
+C0020538,Divorciado,"30,2"
+C0038454,Divorciado,4
+C0011847,Solteiro,"10,4"
+C0030920,Solteiro,"5,4"
+C0022658,Solteiro,"2,2"
+C0003864,Solteiro,"19,3"
+C0034067,Solteiro,"1,4"
+C0006277,Solteiro,"3,6"
+C0010054,Solteiro,"5,3"
+C0020538,Solteiro,24
+C0038454,Solteiro,3
+C0011847,Morando junto,"8,3"
+C0030920,Morando junto,"6,3"
+C0022658,Morando junto,3
+C0003864,Morando junto,"22,8"
+C0034067,Morando junto,2
+C0006277,Morando junto,5
+C0010054,Morando junto,"5,7"
+C0020538,Morando junto,"24,8"
+C0038454,Morando junto,"2,7"
